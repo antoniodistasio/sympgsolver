@@ -1,7 +1,7 @@
 # SymPGSolver
 
 
-SPGSolver (Symbolic Parity Games Solver) is a tool that  implements a collection of procedures to generate and 
+SymPGSolver (Symbolic Parity Games Solver) is a tool that  implements a collection of procedures to generate and 
 solve symbolic parity games, as well as compare the performance of different symbolic algorithms.
 SPGSolver is implemented in C++ language and uses the CUDD package by Fabio Somenzi as the underlying BDD and ADD libraries.
 
