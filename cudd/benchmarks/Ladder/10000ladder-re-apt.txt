@@ -1,0 +1,512 @@
+
+--------------------------------------------------
+tempo esecuzione recursive 0.12272
+tempo esecuzione APT 0.004449
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.118889
+tempo esecuzione APT 0.032312
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.128562
+tempo esecuzione APT 0.018081
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.11945
+tempo esecuzione APT 0.004576
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.119489
+tempo esecuzione APT 0.019781
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.121039
+tempo esecuzione APT 0.004492
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.125993
+tempo esecuzione APT 0.004918
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.095686
+tempo esecuzione APT 0.015934
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.096033
+tempo esecuzione APT 0.026882
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.101817
+tempo esecuzione APT 0.027371
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.102258
+tempo esecuzione APT 0.028065
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.107519
+tempo esecuzione APT 0.017099
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.106945
+tempo esecuzione APT 0.028833
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.106824
+tempo esecuzione APT 0.004101
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.107377
+tempo esecuzione APT 0.018036
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.107001
+tempo esecuzione APT 0.029069
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.107052
+tempo esecuzione APT 0.028696
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.107694
+tempo esecuzione APT 0.028833
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.109382
+tempo esecuzione APT 0.01819
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.110638
+tempo esecuzione APT 0.015737
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.108184
+tempo esecuzione APT 0.029834
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.109849
+tempo esecuzione APT 0.017877
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.116006
+tempo esecuzione APT 0.018104
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.110833
+tempo esecuzione APT 0.030488
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.111079
+tempo esecuzione APT 0.030098
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.112111
+tempo esecuzione APT 0.018424
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.112539
+tempo esecuzione APT 0.01582
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.11614
+tempo esecuzione APT 0.019927
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.116689
+tempo esecuzione APT 0.017238
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.11802
+tempo esecuzione APT 0.004535
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.117066
+tempo esecuzione APT 0.016709
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.121056
+tempo esecuzione APT 0.0336
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.120188
+tempo esecuzione APT 0.020601
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.121279
+tempo esecuzione APT 0.020681
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.127729
+tempo esecuzione APT 0.017657
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.121705
+tempo esecuzione APT 0.033982
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.123176
+tempo esecuzione APT 0.034319
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.124127
+tempo esecuzione APT 0.01728
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.122602
+tempo esecuzione APT 0.017821
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.123372
+tempo esecuzione APT 0.004543
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.119668
+tempo esecuzione APT 0.019031
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.119788
+tempo esecuzione APT 0.019591
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.119808
+tempo esecuzione APT 0.017007
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.11904
+tempo esecuzione APT 0.016577
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.118777
+tempo esecuzione APT 0.004541
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.120346
+tempo esecuzione APT 0.004376
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.129238
+tempo esecuzione APT 0.01851
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.129985
+tempo esecuzione APT 0.004911
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.128079
+tempo esecuzione APT 0.035078
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.09951
+tempo esecuzione APT 0.015958
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.09663
+tempo esecuzione APT 0.016161
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.09851
+tempo esecuzione APT 0.01634
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.102765
+tempo esecuzione APT 0.027669
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.103761
+tempo esecuzione APT 0.016836
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.104128
+tempo esecuzione APT 0.028109
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.103175
+tempo esecuzione APT 0.004068
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.104293
+tempo esecuzione APT 0.017148
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.105749
+tempo esecuzione APT 0.015538
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.1061
+tempo esecuzione APT 0.018058
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.109347
+tempo esecuzione APT 0.028921
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.106079
+tempo esecuzione APT 0.029569
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.1058
+tempo esecuzione APT 0.017281
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.108136
+tempo esecuzione APT 0.017541
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.109787
+tempo esecuzione APT 0.004526
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.109734
+tempo esecuzione APT 0.029642
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.108986
+tempo esecuzione APT 0.018111
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.111539
+tempo esecuzione APT 0.018262
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.108929
+tempo esecuzione APT 0.017826
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.110513
+tempo esecuzione APT 0.029563
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.109886
+tempo esecuzione APT 0.018273
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.109422
+tempo esecuzione APT 0.029308
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.112797
+tempo esecuzione APT 0.004303
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.114582
+tempo esecuzione APT 0.019325
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.110776
+tempo esecuzione APT 0.004838
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.116255
+tempo esecuzione APT 0.019747
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.115403
+tempo esecuzione APT 0.004431
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.117537
+tempo esecuzione APT 0.004505
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.1177
+tempo esecuzione APT 0.004321
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.118369
+tempo esecuzione APT 0.032939
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.118889
+tempo esecuzione APT 0.017622
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.119594
+tempo esecuzione APT 0.033689
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.119313
+tempo esecuzione APT 0.01736
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.120631
+tempo esecuzione APT 0.01734
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.13939
+tempo esecuzione APT 0.037256
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.11985
+tempo esecuzione APT 0.020007
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.119044
+tempo esecuzione APT 0.032384
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.116212
+tempo esecuzione APT 0.00414
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.117028
+tempo esecuzione APT 0.016301
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.116994
+tempo esecuzione APT 0.019032
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.117261
+tempo esecuzione APT 0.031956
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.117327
+tempo esecuzione APT 0.004665
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.11701
+tempo esecuzione APT 0.019496
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.098207
+tempo esecuzione APT 0.015933
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.095399
+tempo esecuzione APT 0.026865
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.099023
+tempo esecuzione APT 0.016474
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.101425
+tempo esecuzione APT 0.016965
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.104063
+tempo esecuzione APT 0.028305
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.105621
+tempo esecuzione APT 0.016916
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.10451
+tempo esecuzione APT 0.017036
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+tempo esecuzione recursive 0.103797
+tempo esecuzione APT 0.01735
+tempo esecuzione SPM 0
+tempo esecuzione Set Based SPM 6.95321e-310
+--------------------------------------------------
+
+
+--------------------------------------------------
+   N. executions     100                           
+--------------------------------------------------
+ AVG recursive     : 0.113076                    
+ AVG APT           : 0.0189082                    
+ AVG SPM           : > 200 sec                  
+ AVG Set-Based SPM : 6.95321e-310                     
+--------------------------------------------------
