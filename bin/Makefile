@@ -11,4 +11,4 @@ LFLAGS = -L /path/to/cudd-3.0.0/cudd/cudd/.libs/ -lcudd -lm
 default: prom
 
 prom: 
-	g++ symbolic.cpp run.cpp generator.cpp solvers.cpp benchmark.cpp paritygames.cpp tuple.cpp -o spgsolver $(FLAGS) $(LFLAGS)
+	g++ symbolic.cpp run.cpp generator.cpp solvers.cpp benchmark.cpp paritygames.cpp tuple.cpp -o sympgsolver $(FLAGS) $(LFLAGS)
