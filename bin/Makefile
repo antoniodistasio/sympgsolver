@@ -1,9 +1,14 @@
 $(CC)= g++
-FLAGS = -I /Users/antoniodistasio/Dropbox/cudd/cudd/ -I /Users/antoniodistasio/Dropbox/cudd/util -I /Users/antoniodistasio/Dropbox/cudd/ -I /Users/antoniodistasio/Dropbox/cudd/mtr/ -I /Users/antoniodistasio/Dropbox/cudd/st/ -I /Users/antoniodistasio/Dropbox/cudd/epd/ -I /Users/antoniodistasio/Dropbox/cudd/cplusplus/
-LFLAGS = -L /Users/antoniodistasio/Dropbox/cudd/cudd/.libs/ -lcudd -lm
-
+FLAGS = -I /path/to/cudd-3.0.0/cudd/cudd/ 
+-I /path/to/cudd-3.0.0/cudd/util 
+-I /path/to/cudd-3.0.0/cudd/ 
+-I /path/to/cudd-3.0.0/cudd/mtr/ 
+-I /path/to/cudd-3.0.0/cudd/st/ 
+-I /path/to/cudd-3.0.0/cudd/epd/ 
+-I /path/to/cudd-3.0.0/cudd/cplusplus/
+LFLAGS = -L /path/to/cudd-3.0.0/cudd/cudd/.libs/ -lcudd -lm
 
 default: prom
 
 prom: 
-	g++ symbolic.cpp run.cpp generator.cpp solvers.cpp benchmark.cpp paritygames.cpp tuple.cpp -o sympgsolver $(FLAGS) $(LFLAGS)
+	g++ symbolic.cpp run.cpp generator.cpp solvers.cpp benchmark.cpp paritygames.cpp tuple.cpp -o spgsolver $(FLAGS) $(LFLAGS)
