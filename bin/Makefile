@@ -6,4 +6,4 @@ LFLAGS = -L /Users/antoniodistasio/Dropbox/cudd/cudd/.libs/ -lcudd -lm
 default: prom
 
 prom: 
-	g++ symbolic.cpp run.cpp generator.cpp solvers.cpp benchmark.cpp paritygames.cpp tuple.cpp -o spgsolver $(FLAGS) $(LFLAGS)
+	g++ symbolic.cpp run.cpp generator.cpp solvers.cpp benchmark.cpp paritygames.cpp tuple.cpp -o sympgsolver $(FLAGS) $(LFLAGS)
