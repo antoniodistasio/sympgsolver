@@ -48,9 +48,6 @@ DWinning *recursiveAlgorithm(Cudd mgr, DGame *game, BDD f_removed, int k){
     // set U \ Removed
     BDD attr = attractor(mgr,game,f_u,pl,f_removed);
  
-
-    cout<<"attr \n";
-    print_nodes(mgr,game,attr);*/
     f_rm = f_removed + attr;
    
     xwin= recursiveAlgorithm(mgr,game,f_rm,k+1);//check
@@ -101,7 +98,7 @@ DWinning *recursiveAlgorithm(Cudd mgr, DGame *game, BDD f_removed, int k){
     return setswin;
 }
 
-ì
+
 BDD aptSolver(Cudd mgr, DGame *game){
 
     BDD visiting,avoiding,f_N;
